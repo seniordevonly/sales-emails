@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "live-server --open=client-follow-up-email-template.html"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
